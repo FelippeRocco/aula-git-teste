@@ -1,0 +1,1 @@
+Esse é o readme criado para a pasta que foi feita com o comando #git init#.
