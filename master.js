@@ -1,0 +1,1 @@
+console.log("Esse só deve aparecer na Master com a commit "v1.1"");
